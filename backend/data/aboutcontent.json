@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "6e5ebafcb9656940212cab16",
+    "title": "Our Story & Philosophy",
+    "subtitle": "Crafted with warmth in the heart of Curtorim, Goa",
+    "storyHeading": "A Heartfelt Corner in South Goa",
+    "storyParagraph1": "Village Cafe was founded with a straightforward, honest purpose: to create a welcoming haven in Curtorim where locals and visitors can take a pause, enjoy genuine bakery craftsmanship, and share delightful conversations over comforting beverages.",
+    "storyParagraph2": "From morning espresso and flaky morning pastries to rich milkshakes and evening tea-time treats, we take pride in serving every customer with warm Goan hospitality.",
+    "storyImage": "/uploads/village_exterior.jpg",
+    "philosophyHeading": "Our Philosophy",
+    "philosophyText": "We believe good food doesn’t need pretension. It demands care, high-quality ingredients, clean and welcoming spaces, and attentive service. Every bun, shake, and coffee is prepared with pride.",
+    "freshnessHeading": "Uncompromising Freshness",
+    "freshnessText": "From our bakery displays stacked with fresh cookies and cakes to our chilled dessert cases and ice cream sundaes, freshness is at the core of everything we do every single day.",
+    "freshnessImage": "/uploads/village_counter.jpg",
+    "bakeryHeading": "The Bakery Craft",
+    "bakeryText": "Our shelves showcase time-tested baking traditions: crusty rusks, butter-rich biscuits, melt-in-mouth cookies, soft sliced cakes, and savoury rolls packed fresh for dine-in or takeaway.",
+    "bakeryImage": "/uploads/village_bakery_shelves.jpg",
+    "experienceHeading": "The Café Experience",
+    "experienceText": "With cool air-conditioned comfort, comfortable seating, vibrant aesthetics, and a cheerful neighborhood vibe, Village Cafe is your second living room in Curtorim.",
+    "createdAt": "2026-09-30T10:55:35.695Z",
+    "updatedAt": "2026-09-30T20:06:17.102Z",
+    "freshness": {
+      "title": "",
+      "text": "",
+      "imageUrl": ""
+    }
+  }
+]

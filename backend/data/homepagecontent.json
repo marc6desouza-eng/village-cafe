@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "2b02f1cdaf55ac74f8a19d39",
+    "heroTitle": "Freshly Baked. Simply Delicious.",
+    "heroSubtitle": "Café & Bakery • Curtorim, Goa",
+    "heroDescription": "A neighbourhood café and bakery in Curtorim, Goa, serving freshly baked treats, desserts, beverages and everyday favourites.",
+    "heroImage": "/uploads/village_exterior.jpg",
+    "heroPrimaryBtnText": "EXPLORE MENU",
+    "heroSecondaryBtnText": "RESERVE A TABLE",
+    "introTitle": "Welcome to Village Cafe",
+    "introSubtitle": "Curtorim’s Favourite Gathering Spot",
+    "introDescription": "Nestled at Carmel View in picturesque Curtorim, Village Cafe brings together the aroma of freshly roasted coffee, oven-warm bakery specialties, decadent milkshakes, and premium ice-cream delights in a relaxing, air-conditioned sanctuary.",
+    "introImage": "/uploads/village_seating.jpg",
+    "introBtnText": "Discover Our Story",
+    "featuredTitle": "Made Fresh, Served With Love",
+    "featuredSubtitle": "Hand-crafted daily favourites prepared with premium ingredients",
+    "bakeryTitle": "Fresh From The Bakery",
+    "bakerySubtitle": "Crisp cookies, tea-time rusks, sponge cakes and freshly rolled savouries",
+    "bakeryImage": "/uploads/village_bakery_shelves.jpg",
+    "ourSpaceTitle": "Experience Our Space",
+    "ourSpaceSubtitle": "A bright, welcoming ambience designed for slow sips and good company",
+    "reservationCtaTitle": "Your Table Is Waiting",
+    "reservationCtaSubtitle": "Planning a coffee, dessert or a relaxed meal? Reserve your table with us.",
+    "reservationCtaImage": "/uploads/village_shake.jpg",
+    "createdAt": "2026-09-30T10:55:35.692Z",
+    "updatedAt": "2026-09-30T10:55:35.692Z"
+  }
+]

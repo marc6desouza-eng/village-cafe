@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "30a7283a0cd2b49d6c735a3d",
+    "cafeName": "Village Cafe",
+    "tagline": "Café & Bakery",
+    "address": "Carmel View, Curtorim, Goa 403786, India",
+    "landmark": "Carmel View Building, Main Road",
+    "city": "Curtorim",
+    "state": "Goa",
+    "country": "India",
+    "phone": "+91 98220 12345",
+    "email": "hello@villagecafegoa.com",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Carmel+View+Curtorim+Goa",
+    "instagram": "https://instagram.com/villagecafegoa",
+    "facebook": "https://facebook.com/villagecafegoa",
+    "whatsapp": "+91 98220 12345",
+    "parkingInfo": "Convenient vehicle parking space available right in front of Carmel View.",
+    "createdAt": "2026-09-30T10:55:35.712Z",
+    "updatedAt": "2026-09-30T16:25:19.216Z"
+  }
+]

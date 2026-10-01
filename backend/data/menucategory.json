@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "2de74e07001b75e32172a132",
+    "name": "Cold Beverages & Shakes",
+    "slug": "beverages-shakes",
+    "description": "Handcrafted thick milkshakes, iced coffee, and refreshing fruit coolers",
+    "displayOrder": 1,
+    "isActive": true,
+    "createdAt": "2026-09-30T10:55:35.662Z",
+    "updatedAt": "2026-09-30T10:55:35.662Z"
+  },
+  {
+    "_id": "08ece0efd80a4d94bf87c6f0",
+    "name": "Bakery & Packaged Treats",
+    "slug": "bakery-treats",
+    "description": "Daily fresh-baked cookies, buttery tea rusks, sponge cakes, and Goan favorites",
+    "displayOrder": 2,
+    "isActive": true,
+    "createdAt": "2026-09-30T10:55:35.662Z",
+    "updatedAt": "2026-09-30T10:55:35.662Z"
+  },
+  {
+    "_id": "0154d5fc4dd6a725dade8007",
+    "name": "Savouries & Warm Bites",
+    "slug": "savouries-bites",
+    "description": "Oven-warm rolls, hot dog buns, puffs, and quick cafe savouries",
+    "displayOrder": 3,
+    "isActive": true,
+    "createdAt": "2026-09-30T10:55:35.662Z",
+    "updatedAt": "2026-09-30T10:55:35.662Z"
+  },
+  {
+    "_id": "46c169e08ca5df42e22f090e",
+    "name": "Coffee & Hot Brews",
+    "slug": "coffee-brews",
+    "description": "Aromatic espressos, velvety lattes, cappuccinos, and authentic masala chai",
+    "displayOrder": 4,
+    "isActive": true,
+    "createdAt": "2026-09-30T10:55:35.662Z",
+    "updatedAt": "2026-09-30T10:55:35.662Z"
+  },
+  {
+    "_id": "b29b925b1cdfbfcc77e75788",
+    "name": "Desserts & Cakes",
+    "slug": "desserts-cakes",
+    "description": "Pastries, chocolate truffle slices, creamy mousses, and tea-time cakes",
+    "displayOrder": 5,
+    "isActive": true,
+    "createdAt": "2026-09-30T10:55:35.662Z",
+    "updatedAt": "2026-09-30T10:55:35.662Z"
+  },
+  {
+    "_id": "cd45104af2b7ee0e8594598c",
+    "name": "Amul Ice Cream Specials",
+    "slug": "ice-cream-specials",
+    "description": "Creamy scoops, sundae creations, and ice-cream floats",
+    "displayOrder": 6,
+    "isActive": true,
+    "createdAt": "2026-09-30T10:55:35.662Z",
+    "updatedAt": "2026-09-30T10:55:35.662Z"
+  }
+]

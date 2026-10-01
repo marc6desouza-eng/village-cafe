@@ -1,0 +1,11 @@
+[
+  {
+    "_id": "bae6675ac65dcc33e7da4da7",
+    "name": "Village Cafe Owner",
+    "email": "villagecafe10@gmail.com",
+    "password": "$2a$10$v/DtVChFXrGZHs5cS83aberJnhjfvzoeeQUfSZ3NnB0MqDSSb7BRy",
+    "role": "admin",
+    "createdAt": "2026-09-30T10:26:30.638Z",
+    "updatedAt": "2026-09-30T15:38:40.092Z"
+  }
+]

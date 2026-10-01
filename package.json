@@ -1,0 +1,15 @@
+{
+  "name": "village-cafe-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Village Cafe - Full-Stack Café & Bakery Web Application (Curtorim, Goa)",
+  "scripts": {
+    "install-all": "npm install --prefix backend && npm install --prefix frontend",
+    "seed": "npm run seed --prefix backend",
+    "server": "npm run dev --prefix backend",
+    "client": "npm run dev --prefix frontend",
+    "dev": "node run-all.js",
+    "build": "npm run build --prefix frontend && npm run build --prefix backend"
+  }
+}
