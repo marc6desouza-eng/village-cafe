@@ -104,7 +104,7 @@ export const HomePage = () => {
           <img
             src={hero.imageUrl || '/uploads/village_exterior.jpg'}
             alt="Village Cafe Curtorim"
-            className="w-full h-full object-cover object-center transform scale-105 animate-fade-in"
+            className="w-full h-full object-cover object-[center_20%] transform scale-105 animate-fade-in"
             onError={(e) => {
               e.currentTarget.src = '/uploads/village_exterior.jpg';
             }}
