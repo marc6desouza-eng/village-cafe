@@ -678,7 +678,7 @@ export const HomePage = () => {
             <div className="h-80 sm:h-96 rounded-3xl overflow-hidden border border-coffee-200 shadow-warm-lg bg-cream-100 relative">
               <iframe
                 title="Village Cafe Curtorim Location"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d961.955!2d74.015!3d15.275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbfb15b3e64fbf1%3A0x6e6e22f36081efb0!2sVillage%20Cafe%2C%20Carmel%20View%2C%20Shelvan%2C%20Curtorim%2C%20Goa!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin"
+                src="https://maps.google.com/maps?q=Village+Cafe,+72RM%2BMVG,+Margao-Chandor-Curchorem+Rd,+Curtorim,+Goa&t=&z=18&ie=UTF8&iwloc=&output=embed"
                 className="w-full h-full border-0"
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
